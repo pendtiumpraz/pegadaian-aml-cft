@@ -1,0 +1,1484 @@
+{
+  "communities": {
+    "0": [
+      "composer",
+      "composer_allow_plugins_pestphp_pest_plugin",
+      "composer_allow_plugins_php_http_discovery",
+      "composer_autoload",
+      "composer_autoload_psr_4",
+      "composer_config",
+      "composer_config_allow_plugins",
+      "composer_config_optimize_autoloader",
+      "composer_config_preferred_install",
+      "composer_config_sort_packages",
+      "composer_description",
+      "composer_extra",
+      "composer_extra_laravel",
+      "composer_keywords",
+      "composer_laravel_dont_discover",
+      "composer_license",
+      "composer_minimum_stability",
+      "composer_name",
+      "composer_prefer_stable",
+      "composer_psr_4_app",
+      "composer_psr_4_database_factories",
+      "composer_psr_4_tests",
+      "composer_require",
+      "composer_require_dev",
+      "composer_require_dev_fakerphp_faker",
+      "composer_require_dev_laravel_pail",
+      "composer_require_dev_laravel_pint",
+      "composer_require_dev_laravel_sail",
+      "composer_require_dev_mockery_mockery",
+      "composer_require_dev_nunomaduro_collision",
+      "composer_require_dev_phpunit_phpunit",
+      "composer_require_inertiajs_inertia_laravel",
+      "composer_require_laravel_framework",
+      "composer_require_laravel_tinker",
+      "composer_require_php",
+      "composer_require_tightenco_ziggy",
+      "composer_schema",
+      "composer_scripts",
+      "composer_scripts_dev",
+      "composer_scripts_post_autoload_dump",
+      "composer_scripts_post_create_project_cmd",
+      "composer_scripts_post_root_package_install",
+      "composer_scripts_post_update_cmd",
+      "composer_scripts_pre_package_uninstall",
+      "composer_scripts_setup",
+      "composer_scripts_test",
+      "composer_type",
+      "seeders_databaseseeder",
+      "seeders_databaseseeder_databaseseeder_run"
+    ],
+    "1": [
+      "backendplan_doc",
+      "backendplan_middleware",
+      "backendplan_models",
+      "backendplan_pages",
+      "backendplan_routes",
+      "backendplan_services",
+      "dbschema_alerts",
+      "dbschema_case_activities",
+      "dbschema_case_documents",
+      "dbschema_cases",
+      "dbschema_customers",
+      "dbschema_doc",
+      "dbschema_edd_answers",
+      "dbschema_edd_cases",
+      "dbschema_edd_documents",
+      "dbschema_ira_components",
+      "dbschema_ltkm",
+      "dbschema_ltkm_att",
+      "dbschema_ltkm_tx",
+      "dbschema_onboarding",
+      "dbschema_outlets",
+      "dbschema_regulatory",
+      "dbschema_screening_rules",
+      "dbschema_training_modules",
+      "dbschema_transactions",
+      "dbschema_watchlist_entries",
+      "dbschema_watchlist_hits",
+      "dbschema_watchlist_sources",
+      "models_eddquestionnaireanswer_eddquestionnaireanswer_casts",
+      "models_eddquestionnaireanswer_eddquestionnaireanswer_eddcase",
+      "models_ltkmtransaction_ltkmtransaction_casts",
+      "models_ltkmtransaction_ltkmtransaction_ltkmreport",
+      "models_onboardingapplication_onboardingapplication_casts",
+      "models_onboardingapplication_onboardingapplication_customer",
+      "models_onboardingapplication_onboardingapplication_outlet",
+      "models_onboardingapplication_onboardingapplication_processedby",
+      "models_trainingcompletion",
+      "models_trainingcompletion_trainingcompletion_casts",
+      "models_trainingcompletion_trainingcompletion_module",
+      "models_trainingcompletion_trainingcompletion_user",
+      "models_watchlistauditlog",
+      "models_watchlistauditlog_watchlistauditlog_actoruser",
+      "models_watchlistauditlog_watchlistauditlog_casts",
+      "models_watchlistauditlog_watchlistauditlog_source"
+    ],
+    "2": [
+      "alert",
+      "app_http_controllers_alertcontroller_php_request",
+      "app_http_controllers_auth_logincontroller_php_request",
+      "app_http_controllers_transactioncontroller_php_request",
+      "auth_logincontroller",
+      "auth_logincontroller_logincontroller",
+      "auth_logincontroller_logincontroller_login",
+      "auth_logincontroller_logincontroller_logout",
+      "auth_logincontroller_logincontroller_portalcallback",
+      "auth_logincontroller_logincontroller_portalredirect",
+      "auth_logincontroller_logincontroller_showlogin",
+      "controllers_alertcontroller",
+      "controllers_alertcontroller_alertcontroller_assign",
+      "controllers_alertcontroller_alertcontroller_close",
+      "controllers_alertcontroller_alertcontroller_escalate",
+      "controllers_alertcontroller_alertcontroller_forcedelete",
+      "controllers_alertcontroller_alertcontroller_index",
+      "controllers_alertcontroller_alertcontroller_restore",
+      "controllers_alertcontroller_alertcontroller_show",
+      "controllers_alertcontroller_alertcontroller_trash",
+      "controllers_alertcontroller_alertcontroller_triage",
+      "controllers_controller",
+      "controllers_controller_controller",
+      "controllers_dashboardcontroller",
+      "controllers_dashboardcontroller_dashboardcontroller_index",
+      "controllers_transactioncontroller",
+      "controllers_transactioncontroller_transactioncontroller_flag",
+      "controllers_transactioncontroller_transactioncontroller_index",
+      "controllers_transactioncontroller_transactioncontroller_review",
+      "controllers_transactioncontroller_transactioncontroller_show",
+      "transaction"
+    ],
+    "3": [
+      "app_http_controllers_screeningrulecontroller_php_request",
+      "app_http_controllers_systemsettingcontroller_php_request",
+      "controllers_screeningrulecontroller",
+      "controllers_screeningrulecontroller_screeningrulecontroller_create",
+      "controllers_screeningrulecontroller_screeningrulecontroller_destroy",
+      "controllers_screeningrulecontroller_screeningrulecontroller_edit",
+      "controllers_screeningrulecontroller_screeningrulecontroller_index",
+      "controllers_screeningrulecontroller_screeningrulecontroller_store",
+      "controllers_screeningrulecontroller_screeningrulecontroller_toggle",
+      "controllers_screeningrulecontroller_screeningrulecontroller_update",
+      "controllers_systemsettingcontroller",
+      "controllers_systemsettingcontroller_systemsettingcontroller_index",
+      "controllers_systemsettingcontroller_systemsettingcontroller_update",
+      "models_systemsetting",
+      "models_systemsetting_systemsetting",
+      "models_systemsetting_systemsetting_casts",
+      "screeningrule",
+      "seeder",
+      "seeders_screeningruleseeder",
+      "seeders_screeningruleseeder_screeningruleseeder",
+      "seeders_screeningruleseeder_screeningruleseeder_run",
+      "seeders_systemsettingseeder",
+      "seeders_systemsettingseeder_systemsettingseeder_run",
+      "seeders_userseeder",
+      "seeders_userseeder_userseeder",
+      "seeders_userseeder_userseeder_run"
+    ],
+    "4": [
+      "app_http_controllers_watchlistcontroller_php_request",
+      "controllers_watchlistcontroller",
+      "controllers_watchlistcontroller_watchlistcontroller_entries",
+      "controllers_watchlistcontroller_watchlistcontroller_hits",
+      "controllers_watchlistcontroller_watchlistcontroller_index",
+      "controllers_watchlistcontroller_watchlistcontroller_reviewhit",
+      "controllers_watchlistcontroller_watchlistcontroller_showentry",
+      "models_watchlistentry",
+      "models_watchlistentry_watchlistentry_casts",
+      "models_watchlistentry_watchlistentry_hits",
+      "models_watchlistentry_watchlistentry_source",
+      "models_watchlisthit_watchlisthit",
+      "models_watchlisthit_watchlisthit_actionedby",
+      "models_watchlisthit_watchlisthit_alert",
+      "models_watchlisthit_watchlisthit_casts",
+      "models_watchlisthit_watchlisthit_customer",
+      "models_watchlisthit_watchlisthit_entry",
+      "models_watchlisthit_watchlisthit_source",
+      "models_watchlistsource",
+      "models_watchlistsource_watchlistsource_auditlogs",
+      "models_watchlistsource_watchlistsource_casts",
+      "models_watchlistsource_watchlistsource_entries",
+      "models_watchlistsource_watchlistsource_hits",
+      "watchlisthit"
+    ],
+    "5": [
+      "edd_detailpanel",
+      "edd_detailpanel_approve",
+      "edd_detailpanel_buildsteps",
+      "edd_detailpanel_derivedocuments",
+      "edd_detailpanel_deriveqacards",
+      "edd_detailpanel_edddetailpanel",
+      "edd_detailpanel_eddrisklevel",
+      "edd_detailpanel_fmtdatetime",
+      "edd_detailpanel_qabordercolor",
+      "edd_detailpanel_qacard",
+      "edd_detailpanel_reject",
+      "edd_detailpanel_sendback",
+      "edd_detailpanel_stage_keys",
+      "edd_detailpanel_stage_labels",
+      "edd_detailpanel_status_badge",
+      "edd_index",
+      "edd_index_eddindex",
+      "edd_index_eddrisklevel",
+      "edd_index_fmtshort",
+      "edd_index_status_badge",
+      "edd_index_tabs",
+      "edd_show",
+      "edd_show_derivefactors",
+      "edd_show_eddshow"
+    ],
+    "6": [
+      "cases_detailpanel",
+      "cases_detailpanel_assigntome",
+      "cases_detailpanel_caserisklevel",
+      "cases_detailpanel_casestatusbadgestatus",
+      "cases_detailpanel_casestatuskey",
+      "cases_detailpanel_casestatuslabel",
+      "cases_detailpanel_closefalsepositive",
+      "cases_detailpanel_derivefactors",
+      "cases_detailpanel_derivetimeline",
+      "cases_detailpanel_escalate",
+      "cases_detailpanel_fmtdate",
+      "cases_detailpanel_fmtdatetime",
+      "cases_detailpanel_kasusdetailpanel",
+      "cases_index",
+      "cases_index_caserisklevel",
+      "cases_index_casestatuskey",
+      "cases_index_casestatuslabel",
+      "cases_index_formatshortdate",
+      "cases_index_kasusindex",
+      "cases_index_status_options",
+      "cases_index_tabs",
+      "cases_show",
+      "cases_show_kasusshow"
+    ],
+    "7": [
+      "amlcase",
+      "app_http_controllers_casecontroller_php_request",
+      "app_http_controllers_eddcasecontroller_php_request",
+      "controllers_casecontroller",
+      "controllers_casecontroller_casecontroller",
+      "controllers_casecontroller_casecontroller_create",
+      "controllers_casecontroller_casecontroller_destroy",
+      "controllers_casecontroller_casecontroller_forcedelete",
+      "controllers_casecontroller_casecontroller_index",
+      "controllers_casecontroller_casecontroller_restore",
+      "controllers_casecontroller_casecontroller_show",
+      "controllers_casecontroller_casecontroller_store",
+      "controllers_casecontroller_casecontroller_trash",
+      "controllers_casecontroller_casecontroller_update",
+      "controllers_eddcasecontroller",
+      "controllers_eddcasecontroller_eddcasecontroller_create",
+      "controllers_eddcasecontroller_eddcasecontroller_destroy",
+      "controllers_eddcasecontroller_eddcasecontroller_index",
+      "controllers_eddcasecontroller_eddcasecontroller_show",
+      "controllers_eddcasecontroller_eddcasecontroller_store",
+      "controllers_eddcasecontroller_eddcasecontroller_update",
+      "eddcase"
+    ],
+    "8": [
+      "package",
+      "package_dependencies",
+      "package_dependencies_inertiajs_react",
+      "package_dependencies_lucide_react",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_ziggy_js",
+      "package_devdependencies",
+      "package_devdependencies_axios",
+      "package_devdependencies_concurrently",
+      "package_devdependencies_laravel_vite_plugin",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tailwindcss_vite",
+      "package_devdependencies_vite",
+      "package_devdependencies_vitejs_plugin_react",
+      "package_private",
+      "package_schema",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_dev",
+      "package_type"
+    ],
+    "9": [
+      "app_http_controllers_notificationcontroller_php_request",
+      "controllers_notificationcontroller",
+      "controllers_notificationcontroller_notificationcontroller",
+      "controllers_notificationcontroller_notificationcontroller_index",
+      "hasuuids",
+      "models_notification",
+      "models_notification_notification_casts",
+      "models_notification_notification_user",
+      "models_user_user_notifications",
+      "notifikasi_index",
+      "notifikasi_index_channelchip",
+      "notifikasi_index_formatrelative",
+      "notifikasi_index_notifikasiindex",
+      "notifikasi_index_pref_defaults",
+      "notifikasi_index_preferencerow",
+      "notifikasi_index_sample",
+      "notifikasi_index_tabs",
+      "notifikasi_index_tone_bg",
+      "notifikasi_index_tone_fg",
+      "notifikasi_index_type_meta"
+    ],
+    "10": [
+      "app_http_controllers_ltkmreportcontroller_php_request",
+      "controllers_ltkmreportcontroller",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_approve",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_create",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_index",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_reject",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_show",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_store",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_submit",
+      "controllers_ltkmreportcontroller_ltkmreportcontroller_update",
+      "ltkmreport",
+      "models_ltkmreport_ltkmreport",
+      "models_ltkmreport_ltkmreport_analyst",
+      "models_ltkmreport_ltkmreport_approver",
+      "models_ltkmreport_ltkmreport_attachments",
+      "models_ltkmreport_ltkmreport_case",
+      "models_ltkmreport_ltkmreport_casts",
+      "models_ltkmreport_ltkmreport_customer",
+      "models_ltkmreport_ltkmreport_transactions"
+    ],
+    "11": [
+      "app_http_controllers_customercontroller_php_request",
+      "app_http_controllers_onboardingcontroller_php_request",
+      "controllers_customercontroller",
+      "controllers_customercontroller_customercontroller_create",
+      "controllers_customercontroller_customercontroller_destroy",
+      "controllers_customercontroller_customercontroller_edit",
+      "controllers_customercontroller_customercontroller_forcedelete",
+      "controllers_customercontroller_customercontroller_index",
+      "controllers_customercontroller_customercontroller_restore",
+      "controllers_customercontroller_customercontroller_show",
+      "controllers_customercontroller_customercontroller_store",
+      "controllers_customercontroller_customercontroller_trash",
+      "controllers_customercontroller_customercontroller_update",
+      "controllers_onboardingcontroller",
+      "controllers_onboardingcontroller_onboardingcontroller_create",
+      "controllers_onboardingcontroller_onboardingcontroller_store",
+      "controllers_onboardingcontroller_onboardingcontroller_storestep",
+      "customer"
+    ],
+    "12": [
+      "model",
+      "models_casedocument",
+      "models_casedocument_casedocument",
+      "models_casedocument_casedocument_case",
+      "models_casedocument_casedocument_casts",
+      "models_casedocument_casedocument_uploadedby",
+      "models_integrationlog",
+      "models_integrationlog_integrationlog_casts",
+      "models_modeliraconfig",
+      "models_modeliraconfig_modeliraconfig_casts",
+      "models_modeliraconfig_modeliraconfig_createdby",
+      "models_regulatoryreport",
+      "models_regulatoryreport_regulatoryreport",
+      "models_regulatoryreport_regulatoryreport_casts",
+      "models_regulatoryreport_regulatoryreport_submittedby"
+    ],
+    "13": [
+      "models_customer",
+      "models_customer_customer",
+      "models_customer_customer_alerts",
+      "models_customer_customer_cases",
+      "models_customer_customer_casts",
+      "models_customer_customer_createdby",
+      "models_customer_customer_eddcases",
+      "models_customer_customer_iracomponents",
+      "models_customer_customer_ltkmreports",
+      "models_customer_customer_watchlisthits",
+      "models_patrolresult",
+      "models_patrolresult_patrolresult_casts",
+      "models_patrolresult_patrolresult_customer",
+      "models_patrolresult_patrolresult_execution",
+      "models_patrolresult_patrolresult_promotedby"
+    ],
+    "14": [
+      "readme_alerts",
+      "readme_cases",
+      "readme_customers",
+      "readme_dashboard",
+      "readme_edd",
+      "readme_ltkm",
+      "readme_notifications",
+      "readme_onboarding",
+      "readme_project",
+      "readme_rules",
+      "readme_settings",
+      "readme_techstack",
+      "readme_training",
+      "readme_watchlist",
+      "roadmap_phase1"
+    ],
+    "15": [
+      "authenticatable",
+      "models_notificationpreference",
+      "models_notificationpreference_notificationpreference_casts",
+      "models_notificationpreference_notificationpreference_user",
+      "models_trainingcertification",
+      "models_trainingcertification_trainingcertification_casts",
+      "models_trainingcertification_trainingcertification_user",
+      "models_user",
+      "models_user_user",
+      "models_user_user_alerts",
+      "models_user_user_cases",
+      "models_user_user_casts",
+      "notifiable"
+    ],
+    "16": [
+      "hasfactory",
+      "models_edddocument",
+      "models_edddocument_edddocument",
+      "models_edddocument_edddocument_casts",
+      "models_edddocument_edddocument_eddcase",
+      "models_edddocument_edddocument_uploadedby",
+      "models_patrolquery_patrolquery",
+      "models_patrolquery_patrolquery_casts",
+      "models_patrolquery_patrolquery_user",
+      "models_screeningrule",
+      "models_screeningrule_screeningrule",
+      "models_screeningrule_screeningrule_casts",
+      "models_screeningrule_screeningrule_createdby"
+    ],
+    "17": [
+      "models_aipatrolrule",
+      "models_aipatrolrule_aipatrolrule",
+      "models_aipatrolrule_aipatrolrule_casts",
+      "models_aipatrolrule_aipatrolrule_createdby",
+      "models_aipatrolrule_aipatrolrule_executions",
+      "models_outlet",
+      "models_outlet_outlet",
+      "models_outlet_outlet_casts",
+      "models_outlet_outlet_transactions",
+      "models_trainingmodule_trainingmodule",
+      "models_trainingmodule_trainingmodule_casts",
+      "models_trainingmodule_trainingmodule_completions",
+      "softdeletes"
+    ],
+    "18": [
+      "models_datasource",
+      "models_datasource_datasource_casts",
+      "models_datasource_datasource_createdby",
+      "models_datasource_datasource_tables",
+      "models_datasourcetable_datasourcetable_casts",
+      "models_datasourcetable_datasourcetable_datasource",
+      "models_patrolexecution",
+      "models_patrolexecution_patrolexecution",
+      "models_patrolexecution_patrolexecution_casts",
+      "models_patrolexecution_patrolexecution_datasource",
+      "models_patrolexecution_patrolexecution_executedby",
+      "models_patrolexecution_patrolexecution_patrolrule",
+      "models_patrolexecution_patrolexecution_results"
+    ],
+    "19": [
+      "laporan_index",
+      "laporan_index_fmtdate",
+      "laporan_index_fmtdatetime",
+      "laporan_index_laporanindex",
+      "laporan_index_saferoute",
+      "laporan_index_sample_reports",
+      "laporan_index_schedule",
+      "laporan_index_schedulecard",
+      "laporan_index_sync_status",
+      "laporan_index_syncstatuscard",
+      "laporan_index_tabs",
+      "laporan_index_type_tag"
+    ],
+    "20": [
+      "models_amlcase",
+      "models_amlcase_amlcase",
+      "models_amlcase_amlcase_activities",
+      "models_amlcase_amlcase_alert",
+      "models_amlcase_amlcase_analyst",
+      "models_amlcase_amlcase_approver",
+      "models_amlcase_amlcase_casts",
+      "models_amlcase_amlcase_customer",
+      "models_amlcase_amlcase_documents",
+      "models_amlcase_amlcase_eddcases",
+      "models_amlcase_amlcase_escalatedby",
+      "models_amlcase_amlcase_ltkmreports"
+    ],
+    "21": [
+      "app_http_controllers_patrolcontroller_php_request",
+      "controllers_patrolcontroller",
+      "controllers_patrolcontroller_patrolcontroller",
+      "controllers_patrolcontroller_patrolcontroller_create",
+      "controllers_patrolcontroller_patrolcontroller_execute",
+      "controllers_patrolcontroller_patrolcontroller_generatemockresults",
+      "controllers_patrolcontroller_patrolcontroller_generatemocksql",
+      "controllers_patrolcontroller_patrolcontroller_index",
+      "controllers_patrolcontroller_patrolcontroller_show",
+      "controllers_patrolcontroller_patrolcontroller_store",
+      "patrolquery"
+    ],
+    "22": [
+      "architecture_data_model",
+      "architecture_doc",
+      "architecture_domain",
+      "architecture_integrations",
+      "architecture_modules",
+      "architecture_nfr",
+      "architecture_security",
+      "claudemd_doc",
+      "techrec_doc",
+      "techrec_rest_api",
+      "techrec_shared_packages"
+    ],
+    "23": [
+      "laravelvsnext_doc",
+      "laravelvsnext_inertia",
+      "techstack_amlcft",
+      "techstack_doc",
+      "techstack_idesk",
+      "techstack_igracias",
+      "techstack_laravel",
+      "techstack_platform",
+      "techstack_portal",
+      "techstack_postgres",
+      "techstack_react"
+    ],
+    "24": [
+      "rules_index",
+      "rules_index_aturanindex",
+      "rules_index_audittrailview",
+      "rules_index_category_label",
+      "rules_index_category_tone",
+      "rules_index_integrationsview",
+      "rules_index_modeliraview",
+      "rules_index_rolesview",
+      "rules_index_sparkfor",
+      "rules_index_tabs",
+      "rules_index_toggleswitch"
+    ],
+    "25": [
+      "watchlist_index",
+      "watchlist_index_auditlogview",
+      "watchlist_index_jenis_label",
+      "watchlist_index_jenis_tone",
+      "watchlist_index_matchesview",
+      "watchlist_index_pepview",
+      "watchlist_index_sanctionsview",
+      "watchlist_index_source_tone",
+      "watchlist_index_tabs",
+      "watchlist_index_toggleswitch",
+      "watchlist_index_watchlistindex"
+    ],
+    "26": [
+      "app_http_controllers_trainingcontroller_php_request",
+      "controllers_trainingcontroller",
+      "controllers_trainingcontroller_trainingcontroller",
+      "controllers_trainingcontroller_trainingcontroller_create",
+      "controllers_trainingcontroller_trainingcontroller_destroy",
+      "controllers_trainingcontroller_trainingcontroller_index",
+      "controllers_trainingcontroller_trainingcontroller_show",
+      "controllers_trainingcontroller_trainingcontroller_store",
+      "controllers_trainingcontroller_trainingcontroller_update",
+      "trainingmodule"
+    ],
+    "27": [
+      "laporan_show",
+      "laporan_show_detailrow",
+      "laporan_show_fmtdate",
+      "laporan_show_fmtdatetime",
+      "laporan_show_laporanshow",
+      "laporan_show_saferoute",
+      "laporan_show_sample_audit",
+      "laporan_show_sample_validations",
+      "laporan_show_stat",
+      "laporan_show_type_label"
+    ],
+    "28": [
+      "settings_index",
+      "settings_index_asboolean",
+      "settings_index_humanizegroup",
+      "settings_index_humanizekey",
+      "settings_index_infertype",
+      "settings_index_settingfield",
+      "settings_index_settingsection",
+      "settings_index_settingsindex",
+      "settings_index_toggleswitch",
+      "settings_index_valuetostring"
+    ],
+    "29": [
+      "alerts_show",
+      "alerts_show_alertshow",
+      "alerts_show_derivefactors",
+      "alerts_show_derivetimeline",
+      "alerts_show_fmtdate",
+      "alerts_show_fmtdatetime",
+      "alerts_show_severity_level",
+      "alerts_show_severityscorecolor",
+      "alerts_show_status_badge"
+    ],
+    "30": [
+      "basetestcase",
+      "feature_exampletest",
+      "feature_exampletest_exampletest",
+      "feature_exampletest_exampletest_test_the_application_returns_a_successful_response",
+      "tests_testcase",
+      "tests_testcase_testcase",
+      "unit_exampletest",
+      "unit_exampletest_exampletest",
+      "unit_exampletest_exampletest_test_that_true_is_true"
+    ],
+    "31": [
+      "customers_show",
+      "customers_show_currency",
+      "customers_show_fmtcompactidr",
+      "customers_show_fmtdate",
+      "customers_show_fmtshortdatetime",
+      "customers_show_nasabahshow",
+      "customers_show_number",
+      "customers_show_risk_label",
+      "customers_show_risk_level_key"
+    ],
+    "32": [
+      "ltkm_index",
+      "ltkm_index_activedraft",
+      "ltkm_index_currency",
+      "ltkm_index_field",
+      "ltkm_index_ltkmindex",
+      "ltkm_index_section",
+      "ltkm_index_status_label",
+      "ltkm_index_status_tabs",
+      "ltkm_index_status_tag_tone"
+    ],
+    "33": [
+      "models_eddcase",
+      "models_eddcase_eddcase",
+      "models_eddcase_eddcase_analyst",
+      "models_eddcase_eddcase_approver",
+      "models_eddcase_eddcase_case",
+      "models_eddcase_eddcase_casts",
+      "models_eddcase_eddcase_customer",
+      "models_eddcase_eddcase_documents",
+      "models_eddcase_eddcase_questionnaireanswers"
+    ],
+    "34": [
+      "readme_aipatrol",
+      "readme_reporting",
+      "readme_transactions",
+      "roadmap_doc",
+      "roadmap_phase0",
+      "roadmap_phase2",
+      "roadmap_phase3",
+      "roadmap_phase4",
+      "roadmap_phase5"
+    ],
+    "35": [
+      "alerts_index",
+      "alerts_index_alertsindex",
+      "alerts_index_fmtdate",
+      "alerts_index_severity_level",
+      "alerts_index_severity_options",
+      "alerts_index_severityscorecolor",
+      "alerts_index_status_badge",
+      "alerts_index_status_options"
+    ],
+    "36": [
+      "patrol_show",
+      "patrol_show_detailrow",
+      "patrol_show_fmtcompactidr",
+      "patrol_show_fmtdatetime",
+      "patrol_show_patrolshow",
+      "patrol_show_sqlblock",
+      "patrol_show_status_label",
+      "patrol_show_status_tone"
+    ],
+    "37": [
+      "readme_portal_sso",
+      "roadmap_phase6",
+      "saas_byodb",
+      "saas_byos",
+      "saas_doc",
+      "saas_sso_flow",
+      "saas_whitelabel",
+      "techstack_stancl"
+    ],
+    "38": [
+      "rules_create",
+      "rules_create_aturancreate",
+      "rules_edit",
+      "rules_edit_aturanedit",
+      "rules_ruleform",
+      "rules_ruleform_formfield",
+      "rules_ruleform_ruleform",
+      "rules_ruleform_toggleswitchfield"
+    ],
+    "39": [
+      "training_index",
+      "training_index_campaigns",
+      "training_index_expiring",
+      "training_index_jenis_label",
+      "training_index_jenis_tone",
+      "training_index_pelatihanindex",
+      "training_index_status_label",
+      "training_index_status_tone"
+    ],
+    "40": [
+      "components_heatmap",
+      "components_heatmap_colorfromscore",
+      "components_heatmap_default_x",
+      "components_heatmap_default_y",
+      "components_heatmap_heatmap",
+      "components_heatmap_readcell",
+      "components_heatmap_rowfragment"
+    ],
+    "41": [
+      "layouts_applayout",
+      "layouts_applayout_isactive",
+      "layouts_applayout_nav_groups",
+      "layouts_applayout_sidebar",
+      "layouts_applayout_toast",
+      "layouts_applayout_toaststack",
+      "layouts_applayout_topbar"
+    ],
+    "42": [
+      "ltkm_show",
+      "ltkm_show_currency",
+      "ltkm_show_field",
+      "ltkm_show_ltkmshow",
+      "ltkm_show_section",
+      "ltkm_show_status_label",
+      "ltkm_show_status_tone"
+    ],
+    "43": [
+      "models_alert",
+      "models_alert_alert",
+      "models_alert_alert_assignedto",
+      "models_alert_alert_cases",
+      "models_alert_alert_casts",
+      "models_alert_alert_closedby",
+      "models_alert_alert_customer"
+    ],
+    "44": [
+      "app_http_controllers_regulatoryreportcontroller_php_request",
+      "controllers_regulatoryreportcontroller",
+      "controllers_regulatoryreportcontroller_regulatoryreportcontroller_index",
+      "controllers_regulatoryreportcontroller_regulatoryreportcontroller_send",
+      "controllers_regulatoryreportcontroller_regulatoryreportcontroller_show",
+      "regulatoryreport"
+    ],
+    "45": [
+      "app_http_middleware_handleinertiarequests_php_request",
+      "bootstrap_app",
+      "middleware",
+      "middleware_handleinertiarequests",
+      "middleware_handleinertiarequests_handleinertiarequests_share",
+      "middleware_handleinertiarequests_handleinertiarequests_version"
+    ],
+    "46": [
+      "factories_userfactory",
+      "factories_userfactory_userfactory",
+      "factories_userfactory_userfactory_definition",
+      "factories_userfactory_userfactory_unverified",
+      "factory",
+      "static"
+    ],
+    "47": [
+      "models_transaction",
+      "models_transaction_transaction",
+      "models_transaction_transaction_casts",
+      "models_transaction_transaction_customer",
+      "models_transaction_transaction_outlet",
+      "models_transaction_transaction_reviewedby"
+    ],
+    "48": [
+      "patrol_create",
+      "patrol_create_patrolcreate",
+      "patrol_create_preset_prompts",
+      "patrol_create_previewgenerate",
+      "patrol_create_sqlpreview",
+      "patrol_create_suggestions"
+    ],
+    "49": [
+      "patrol_index",
+      "patrol_index_fmtdatetime",
+      "patrol_index_patrolindex",
+      "patrol_index_status_label",
+      "patrol_index_status_tone",
+      "patrol_index_truncate"
+    ],
+    "50": [
+      "transactions_index",
+      "transactions_index_currency",
+      "transactions_index_status_label",
+      "transactions_index_status_tone",
+      "transactions_index_top_rules",
+      "transactions_index_transaksiindex"
+    ],
+    "51": [
+      "components_avatar",
+      "components_avatar_avatar",
+      "components_avatar_hashname",
+      "components_avatar_initialsfrom",
+      "components_avatar_palette"
+    ],
+    "52": [
+      "dashboard_index",
+      "dashboard_index_dashboardindex",
+      "dashboard_index_formattoday",
+      "dashboard_index_riskbar",
+      "dashboard_index_riskrow"
+    ],
+    "53": [
+      "migrations_2026_01_01_000005_create_transactions_table",
+      "migrations_2026_01_01_000005_create_transactions_table_down",
+      "migrations_2026_01_01_000005_create_transactions_table_up",
+      "migrations_2026_01_01_000020_create_ltkm_transactions_table_down",
+      "migrations_2026_01_01_000020_create_ltkm_transactions_table_up"
+    ],
+    "54": [
+      "migrations_2026_01_01_000007_create_cases_table",
+      "migrations_2026_01_01_000007_create_cases_table_down",
+      "migrations_2026_01_01_000007_create_cases_table_up",
+      "migrations_2026_01_01_000008_create_case_activities_table_down",
+      "migrations_2026_01_01_000008_create_case_activities_table_up"
+    ],
+    "55": [
+      "migrations_2026_01_01_000010_create_watchlist_sources_table_down",
+      "migrations_2026_01_01_000010_create_watchlist_sources_table_up",
+      "migrations_2026_01_01_000012_create_watchlist_hits_table",
+      "migrations_2026_01_01_000012_create_watchlist_hits_table_down",
+      "migrations_2026_01_01_000012_create_watchlist_hits_table_up"
+    ],
+    "56": [
+      "onboarding_index",
+      "onboarding_index_dropzone",
+      "onboarding_index_formfield",
+      "onboarding_index_onboardingindex",
+      "onboarding_index_screeningtile"
+    ],
+    "57": [
+      "transactions_show",
+      "transactions_show_currency",
+      "transactions_show_status_label",
+      "transactions_show_status_tone",
+      "transactions_show_transaksishow"
+    ],
+    "58": [
+      "app_http_middleware_portaltokenauth_php_request",
+      "closure",
+      "middleware_portaltokenauth",
+      "middleware_portaltokenauth_portaltokenauth_handle"
+    ],
+    "59": [
+      "cases_create",
+      "cases_create_formfield",
+      "cases_create_inputcss",
+      "cases_create_kasuscreate"
+    ],
+    "60": [
+      "components_badge",
+      "components_badge_badge",
+      "components_badge_label_by_status",
+      "components_badge_tone_by_status"
+    ],
+    "61": [
+      "customers_index",
+      "customers_index_nasabahindex",
+      "customers_index_risk_label",
+      "customers_index_status_label"
+    ],
+    "62": [
+      "edd_create",
+      "edd_create_eddcreate",
+      "edd_create_formfield",
+      "edd_create_inputcss"
+    ],
+    "63": [
+      "js_app_setup",
+      "js_bootstrap",
+      "resources_js_app_js_js_app",
+      "resources_js_app_jsx_js_app"
+    ],
+    "64": [
+      "models_caseactivity",
+      "models_caseactivity_caseactivity_case",
+      "models_caseactivity_caseactivity_casts",
+      "models_caseactivity_caseactivity_user"
+    ],
+    "65": [
+      "models_customeriracomponent",
+      "models_customeriracomponent_customeriracomponent_casts",
+      "models_customeriracomponent_customeriracomponent_createdby",
+      "models_customeriracomponent_customeriracomponent_customer"
+    ],
+    "66": [
+      "models_ltkmattachment",
+      "models_ltkmattachment_ltkmattachment_casts",
+      "models_ltkmattachment_ltkmattachment_ltkmreport",
+      "models_ltkmattachment_ltkmattachment_uploadedby"
+    ],
+    "67": [
+      "providers_appserviceprovider",
+      "providers_appserviceprovider_appserviceprovider_boot",
+      "providers_appserviceprovider_appserviceprovider_register",
+      "serviceprovider"
+    ],
+    "68": [
+      "components_riskpill",
+      "components_riskpill_level_class",
+      "components_riskpill_level_label"
+    ],
+    "69": [
+      "components_stepper",
+      "components_stepper_step",
+      "components_stepper_stepper"
+    ],
+    "70": [
+      "components_timeline",
+      "components_timeline_timeline",
+      "components_timeline_type_color"
+    ],
+    "71": [
+      "customers_create",
+      "customers_create_formfield",
+      "customers_create_nasabahcreate"
+    ],
+    "72": [
+      "customers_edit",
+      "customers_edit_formfield",
+      "customers_edit_nasabahedit"
+    ],
+    "73": [
+      "ltkm_create",
+      "ltkm_create_formfield",
+      "ltkm_create_ltkmcreate"
+    ],
+    "74": [
+      "migrations_0001_01_01_000000_create_users_table",
+      "migrations_0001_01_01_000000_create_users_table_down",
+      "migrations_0001_01_01_000000_create_users_table_up"
+    ],
+    "75": [
+      "migrations_0001_01_01_000001_create_cache_table",
+      "migrations_0001_01_01_000001_create_cache_table_down",
+      "migrations_0001_01_01_000001_create_cache_table_up"
+    ],
+    "76": [
+      "migrations_0001_01_01_000002_create_jobs_table",
+      "migrations_0001_01_01_000002_create_jobs_table_down",
+      "migrations_0001_01_01_000002_create_jobs_table_up"
+    ],
+    "77": [
+      "migrations_2026_01_01_000001_create_outlets_table",
+      "migrations_2026_01_01_000001_create_outlets_table_down",
+      "migrations_2026_01_01_000001_create_outlets_table_up"
+    ],
+    "78": [
+      "migrations_2026_01_01_000002_create_customers_table",
+      "migrations_2026_01_01_000002_create_customers_table_down",
+      "migrations_2026_01_01_000002_create_customers_table_up"
+    ],
+    "79": [
+      "migrations_2026_01_01_000003_create_customer_ira_components_table",
+      "migrations_2026_01_01_000003_create_customer_ira_components_table_down",
+      "migrations_2026_01_01_000003_create_customer_ira_components_table_up"
+    ],
+    "80": [
+      "migrations_2026_01_01_000004_create_screening_rules_table",
+      "migrations_2026_01_01_000004_create_screening_rules_table_down",
+      "migrations_2026_01_01_000004_create_screening_rules_table_up"
+    ],
+    "81": [
+      "migrations_2026_01_01_000006_create_alerts_table",
+      "migrations_2026_01_01_000006_create_alerts_table_down",
+      "migrations_2026_01_01_000006_create_alerts_table_up"
+    ],
+    "82": [
+      "migrations_2026_01_01_000009_create_case_documents_table",
+      "migrations_2026_01_01_000009_create_case_documents_table_down",
+      "migrations_2026_01_01_000009_create_case_documents_table_up"
+    ],
+    "83": [
+      "migrations_2026_01_01_000011_create_watchlist_entries_table",
+      "migrations_2026_01_01_000011_create_watchlist_entries_table_down",
+      "migrations_2026_01_01_000011_create_watchlist_entries_table_up"
+    ],
+    "84": [
+      "migrations_2026_01_01_000013_create_watchlist_audit_logs_table",
+      "migrations_2026_01_01_000013_create_watchlist_audit_logs_table_down",
+      "migrations_2026_01_01_000013_create_watchlist_audit_logs_table_up"
+    ],
+    "85": [
+      "migrations_2026_01_01_000014_create_edd_cases_table",
+      "migrations_2026_01_01_000014_create_edd_cases_table_down",
+      "migrations_2026_01_01_000014_create_edd_cases_table_up"
+    ],
+    "86": [
+      "migrations_2026_01_01_000015_create_edd_questionnaire_answers_table",
+      "migrations_2026_01_01_000015_create_edd_questionnaire_answers_table_down",
+      "migrations_2026_01_01_000015_create_edd_questionnaire_answers_table_up"
+    ],
+    "87": [
+      "migrations_2026_01_01_000016_create_edd_documents_table",
+      "migrations_2026_01_01_000016_create_edd_documents_table_down",
+      "migrations_2026_01_01_000016_create_edd_documents_table_up"
+    ],
+    "88": [
+      "migrations_2026_01_01_000017_create_onboarding_applications_table",
+      "migrations_2026_01_01_000017_create_onboarding_applications_table_down",
+      "migrations_2026_01_01_000017_create_onboarding_applications_table_up"
+    ],
+    "89": [
+      "migrations_2026_01_01_000018_create_regulatory_reports_table",
+      "migrations_2026_01_01_000018_create_regulatory_reports_table_down",
+      "migrations_2026_01_01_000018_create_regulatory_reports_table_up"
+    ],
+    "90": [
+      "migrations_2026_01_01_000019_create_ltkm_reports_table",
+      "migrations_2026_01_01_000019_create_ltkm_reports_table_down",
+      "migrations_2026_01_01_000019_create_ltkm_reports_table_up"
+    ],
+    "91": [
+      "migrations_2026_01_01_000021_create_ltkm_attachments_table",
+      "migrations_2026_01_01_000021_create_ltkm_attachments_table_down",
+      "migrations_2026_01_01_000021_create_ltkm_attachments_table_up"
+    ],
+    "92": [
+      "migrations_2026_01_01_000022_create_training_modules_table",
+      "migrations_2026_01_01_000022_create_training_modules_table_down",
+      "migrations_2026_01_01_000022_create_training_modules_table_up"
+    ],
+    "93": [
+      "migrations_2026_01_01_000023_create_training_completions_table",
+      "migrations_2026_01_01_000023_create_training_completions_table_down",
+      "migrations_2026_01_01_000023_create_training_completions_table_up"
+    ],
+    "94": [
+      "migrations_2026_01_01_000024_create_training_certifications_table",
+      "migrations_2026_01_01_000024_create_training_certifications_table_down",
+      "migrations_2026_01_01_000024_create_training_certifications_table_up"
+    ],
+    "95": [
+      "migrations_2026_01_01_000025_create_awareness_campaigns_table",
+      "migrations_2026_01_01_000025_create_awareness_campaigns_table_down",
+      "migrations_2026_01_01_000025_create_awareness_campaigns_table_up"
+    ],
+    "96": [
+      "migrations_2026_01_01_000026_create_notifications_table",
+      "migrations_2026_01_01_000026_create_notifications_table_down",
+      "migrations_2026_01_01_000026_create_notifications_table_up"
+    ],
+    "97": [
+      "migrations_2026_01_01_000027_create_notification_preferences_table",
+      "migrations_2026_01_01_000027_create_notification_preferences_table_down",
+      "migrations_2026_01_01_000027_create_notification_preferences_table_up"
+    ],
+    "98": [
+      "migrations_2026_01_01_000028_create_ai_patrol_rules_table",
+      "migrations_2026_01_01_000028_create_ai_patrol_rules_table_down",
+      "migrations_2026_01_01_000028_create_ai_patrol_rules_table_up"
+    ],
+    "99": [
+      "migrations_2026_01_01_000029_create_data_sources_table",
+      "migrations_2026_01_01_000029_create_data_sources_table_down",
+      "migrations_2026_01_01_000029_create_data_sources_table_up"
+    ],
+    "100": [
+      "migrations_2026_01_01_000030_create_data_source_tables_table",
+      "migrations_2026_01_01_000030_create_data_source_tables_table_down",
+      "migrations_2026_01_01_000030_create_data_source_tables_table_up"
+    ],
+    "101": [
+      "migrations_2026_01_01_000031_create_patrol_executions_table",
+      "migrations_2026_01_01_000031_create_patrol_executions_table_down",
+      "migrations_2026_01_01_000031_create_patrol_executions_table_up"
+    ],
+    "102": [
+      "migrations_2026_01_01_000032_create_patrol_results_table",
+      "migrations_2026_01_01_000032_create_patrol_results_table_down",
+      "migrations_2026_01_01_000032_create_patrol_results_table_up"
+    ],
+    "103": [
+      "migrations_2026_01_01_000033_create_system_settings_table",
+      "migrations_2026_01_01_000033_create_system_settings_table_down",
+      "migrations_2026_01_01_000033_create_system_settings_table_up"
+    ],
+    "104": [
+      "migrations_2026_01_01_000034_create_integration_logs_table",
+      "migrations_2026_01_01_000034_create_integration_logs_table_down",
+      "migrations_2026_01_01_000034_create_integration_logs_table_up"
+    ],
+    "105": [
+      "migrations_2026_01_01_000035_create_model_ira_configs_table",
+      "migrations_2026_01_01_000035_create_model_ira_configs_table_down",
+      "migrations_2026_01_01_000035_create_model_ira_configs_table_up"
+    ],
+    "106": [
+      "migrations_2026_05_08_000001_add_auth_columns_to_users_table",
+      "migrations_2026_05_08_000001_add_auth_columns_to_users_table_down",
+      "migrations_2026_05_08_000001_add_auth_columns_to_users_table_up"
+    ],
+    "107": [
+      "migrations_2026_05_08_000002_create_patrol_queries_table",
+      "migrations_2026_05_08_000002_create_patrol_queries_table_down",
+      "migrations_2026_05_08_000002_create_patrol_queries_table_up"
+    ],
+    "108": [
+      "models_awarenesscampaign",
+      "models_awarenesscampaign_awarenesscampaign_casts",
+      "models_awarenesscampaign_awarenesscampaign_createdby"
+    ],
+    "109": [
+      "training_create",
+      "training_create_formfield",
+      "training_create_pelatihancreate"
+    ],
+    "110": [
+      "watchlist_create",
+      "watchlist_create_formfield",
+      "watchlist_create_watchlistcreate"
+    ],
+    "111": [
+      "auth_login",
+      "auth_login_login"
+    ],
+    "112": [
+      "components_datatable",
+      "components_datatable_datatable"
+    ],
+    "113": [
+      "components_donut",
+      "components_donut_donut"
+    ],
+    "114": [
+      "components_factorrow",
+      "components_factorrow_defaultcolor"
+    ],
+    "115": [
+      "components_hbar",
+      "components_hbar_hbar"
+    ],
+    "116": [
+      "components_pageheader",
+      "components_pageheader_pageheader"
+    ],
+    "117": [
+      "components_sparkline",
+      "components_sparkline_sparkline"
+    ],
+    "118": [
+      "components_statcard",
+      "components_statcard_statcard"
+    ],
+    "119": [
+      "components_tag",
+      "components_tag_tag"
+    ],
+    "120": [
+      "bootstrap_providers"
+    ],
+    "121": [
+      "cache_packages"
+    ],
+    "122": [
+      "cache_services"
+    ],
+    "123": [
+      "components_masterdetail"
+    ],
+    "124": [
+      "components_rightrail"
+    ],
+    "125": [
+      "config_app"
+    ],
+    "126": [
+      "config_auth"
+    ],
+    "127": [
+      "config_cache"
+    ],
+    "128": [
+      "config_database"
+    ],
+    "129": [
+      "config_filesystems"
+    ],
+    "130": [
+      "config_logging"
+    ],
+    "131": [
+      "config_mail"
+    ],
+    "132": [
+      "config_queue"
+    ],
+    "133": [
+      "config_services"
+    ],
+    "134": [
+      "config_session"
+    ],
+    "135": [
+      "postcss_config"
+    ],
+    "136": [
+      "public_index"
+    ],
+    "137": [
+      "robots_file"
+    ],
+    "138": [
+      "routes_console"
+    ],
+    "139": [
+      "routes_web"
+    ],
+    "140": [
+      "views_app_blade"
+    ],
+    "141": [
+      "views_welcome_blade"
+    ],
+    "142": [
+      "vite_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.04081632653061224,
+    "1": 0.07293868921775898,
+    "2": 0.12688172043010754,
+    "3": 0.12615384615384614,
+    "4": 0.10507246376811594,
+    "5": 0.11956521739130435,
+    "6": 0.15019762845849802,
+    "7": 0.17316017316017315,
+    "8": 0.09523809523809523,
+    "9": 0.11052631578947368,
+    "10": 0.19883040935672514,
+    "11": 0.20261437908496732,
+    "12": 0.1523809523809524,
+    "13": 0.13333333333333333,
+    "14": 0.1619047619047619,
+    "15": 0.16666666666666666,
+    "16": 0.1794871794871795,
+    "17": 0.1794871794871795,
+    "18": 0.15384615384615385,
+    "19": 0.16666666666666666,
+    "20": 0.16666666666666666,
+    "21": 0.32727272727272727,
+    "22": 0.18181818181818182,
+    "23": 0.2,
+    "24": 0.18181818181818182,
+    "25": 0.18181818181818182,
+    "26": 0.37777777777777777,
+    "27": 0.26666666666666666,
+    "28": 0.3333333333333333,
+    "29": 0.3888888888888889,
+    "30": 0.2777777777777778,
+    "31": 0.3055555555555556,
+    "32": 0.2222222222222222,
+    "33": 0.2222222222222222,
+    "34": 0.2222222222222222,
+    "35": 0.25,
+    "36": 0.2857142857142857,
+    "37": 0.25,
+    "38": 0.25,
+    "39": 0.25,
+    "40": 0.2857142857142857,
+    "41": 0.2857142857142857,
+    "42": 0.2857142857142857,
+    "43": 0.2857142857142857,
+    "44": 0.6666666666666666,
+    "45": 0.4666666666666667,
+    "46": 0.4666666666666667,
+    "47": 0.3333333333333333,
+    "48": 0.3333333333333333,
+    "49": 0.3333333333333333,
+    "50": 0.3333333333333333,
+    "51": 0.6,
+    "52": 0.5,
+    "53": 0.4,
+    "54": 0.4,
+    "55": 0.4,
+    "56": 0.4,
+    "57": 0.4,
+    "58": 0.8333333333333334,
+    "59": 0.5,
+    "60": 0.5,
+    "61": 0.5,
+    "62": 0.5,
+    "63": 0.5,
+    "64": 0.5,
+    "65": 0.5,
+    "66": 0.5,
+    "67": 0.5,
+    "68": 0.6666666666666666,
+    "69": 0.6666666666666666,
+    "70": 0.6666666666666666,
+    "71": 0.6666666666666666,
+    "72": 0.6666666666666666,
+    "73": 0.6666666666666666,
+    "74": 0.6666666666666666,
+    "75": 0.6666666666666666,
+    "76": 0.6666666666666666,
+    "77": 0.6666666666666666,
+    "78": 0.6666666666666666,
+    "79": 0.6666666666666666,
+    "80": 0.6666666666666666,
+    "81": 0.6666666666666666,
+    "82": 0.6666666666666666,
+    "83": 0.6666666666666666,
+    "84": 0.6666666666666666,
+    "85": 0.6666666666666666,
+    "86": 0.6666666666666666,
+    "87": 0.6666666666666666,
+    "88": 0.6666666666666666,
+    "89": 0.6666666666666666,
+    "90": 0.6666666666666666,
+    "91": 0.6666666666666666,
+    "92": 0.6666666666666666,
+    "93": 0.6666666666666666,
+    "94": 0.6666666666666666,
+    "95": 0.6666666666666666,
+    "96": 0.6666666666666666,
+    "97": 0.6666666666666666,
+    "98": 0.6666666666666666,
+    "99": 0.6666666666666666,
+    "100": 0.6666666666666666,
+    "101": 0.6666666666666666,
+    "102": 0.6666666666666666,
+    "103": 0.6666666666666666,
+    "104": 0.6666666666666666,
+    "105": 0.6666666666666666,
+    "106": 0.6666666666666666,
+    "107": 0.6666666666666666,
+    "108": 0.6666666666666666,
+    "109": 0.6666666666666666,
+    "110": 0.6666666666666666,
+    "111": 1.0,
+    "112": 1.0,
+    "113": 1.0,
+    "114": 1.0,
+    "115": 1.0,
+    "116": 1.0,
+    "117": 1.0,
+    "118": 1.0,
+    "119": 1.0,
+    "120": 1.0,
+    "121": 1.0,
+    "122": 1.0,
+    "123": 1.0,
+    "124": 1.0,
+    "125": 1.0,
+    "126": 1.0,
+    "127": 1.0,
+    "128": 1.0,
+    "129": 1.0,
+    "130": 1.0,
+    "131": 1.0,
+    "132": 1.0,
+    "133": 1.0,
+    "134": 1.0,
+    "135": 1.0,
+    "136": 1.0,
+    "137": 1.0,
+    "138": 1.0,
+    "139": 1.0,
+    "140": 1.0,
+    "141": 1.0,
+    "142": 1.0
+  },
+  "gods": [
+    {
+      "id": "dbschema_doc",
+      "label": "Database Schema",
+      "degree": 25
+    },
+    {
+      "id": "controllers_controller_controller",
+      "label": "Controller",
+      "degree": 18
+    },
+    {
+      "id": "readme_project",
+      "label": "Pegadaian AML/CFT Application",
+      "degree": 18
+    },
+    {
+      "id": "customer",
+      "label": "Customer",
+      "degree": 14
+    },
+    {
+      "id": "models_amlcase_amlcase",
+      "label": "AmlCase",
+      "degree": 14
+    },
+    {
+      "id": "models_customer_customer",
+      "label": "Customer",
+      "degree": 14
+    },
+    {
+      "id": "ltkmreport",
+      "label": "LtkmReport",
+      "degree": 13
+    },
+    {
+      "id": "models_user_user",
+      "label": "User",
+      "degree": 12
+    },
+    {
+      "id": "alert",
+      "label": "Alert",
+      "degree": 11
+    },
+    {
+      "id": "controllers_casecontroller_casecontroller",
+      "label": "CaseController",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Architecture Modules (CDD/TM/EDD/Reporting)",
+      "target": "Pegadaian AML/CFT Application",
+      "source_files": [
+        "docs/ARCHITECTURE.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; peripheral node `Architecture Modules (CDD/TM/EDD/Reporting)` unexpectedly reaches hub `Pegadaian AML/CFT Application`"
+    },
+    {
+      "source": "Phase 2 Transaction Monitoring",
+      "target": "Pemantauan Transaksi",
+      "source_files": [
+        "docs/ROADMAP.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    },
+    {
+      "source": "Phase 1 MVP Core CDD",
+      "target": "Onboarding CDD Wizard",
+      "source_files": [
+        "docs/ROADMAP.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    },
+    {
+      "source": "Phase 3 Regulatory Reporting",
+      "target": "Pelaporan Regulator",
+      "source_files": [
+        "docs/ROADMAP.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    },
+    {
+      "source": "Phase 4 AI Enhancement",
+      "target": "AI Patrol NL-to-SQL",
+      "source_files": [
+        "docs/ROADMAP.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 74679,
+    "output": 19355
+  }
+}
