@@ -23,3 +23,6 @@ yarn-error.log
 /storage/oauth-*.key
 /storage/app/oauth_clients_seed.txt
 /storage/app/ingest
+
+# Claude Code
+.claude
